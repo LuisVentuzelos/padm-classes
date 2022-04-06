@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoApp02</string>
+    <string name="email">Email</string>
+    <string name="password">Palavra-passe</string>
+    <string name="login">Entrar</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="login_success">Login com sucesso!</string>
+    <string name="login_failed">Login falhado!</string>
+    <string name="login_error_on_access">Email ou palavra-passe não está correto!</string>
+    <string name="general_error">Erro!</string>
+    <string name="general_ok">Ok</string>
+    <string name="activity2_goback">Recuar!</string>
+    <string name="name">Nome</string>
+    <string name="register_name">Registrar</string>
+    <string name="home_activity_label">Home</string>
+    <string name="home_update_button_lb">Atualizar</string>
+</resources>
