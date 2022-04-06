@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoApp02</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_success">Login Successful!</string>
+    <string name="login_failed">Failed Login!</string>
+    <string name="login_error_on_access">User Email or Password are incorrect!</string>
+    <string name="general_error">Error!</string>
+    <string name="general_ok">Ok</string>
+    <string name="activity2_goback">Go back!</string>
+    <string name="name">Name</string>
+    <string name="register_name">Register</string>
+    <string name="home_activity_label">Home</string>
+    <string name="home_update_button_lb">Update</string>
+</resources>
